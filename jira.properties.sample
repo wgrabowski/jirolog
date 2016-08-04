@@ -1,3 +1,4 @@
 JIRA_USERNAME=xxx
 JIRA_PASSWORD=xxx
 JIRA_HOSTNAME="jira.xxx.com"
+JIRA_BOARD_ID=xx
