@@ -1,6 +1,6 @@
 #Jirolog
 
-List all task that you logged work in today
+List all task that you logged work in today, yesterday or any date
 
 ## Installation and setup
 
@@ -11,3 +11,4 @@ fill it with your JIRA host url and user credentials
 
 ## Requirements
  - curl
+ - jq
